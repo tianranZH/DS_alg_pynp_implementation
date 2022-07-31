@@ -4,11 +4,11 @@
  Also wouldn't object any fun trying to improve the running speed by using numba :)
  
  
- To do list:
--[X] Logistic Regression
--[ ] Linear Regression
--[ ] K-means
--[ ] KNN
--[ ] SVM
--[ ] Backpropagation NN
+## To do list:
+- [x] Logistic Regression
+- [ ] Linear Regression
+- [ ] K-means
+- [ ] KNN
+- [ ] SVM
+- [ ] Backpropagation NN
 ...
